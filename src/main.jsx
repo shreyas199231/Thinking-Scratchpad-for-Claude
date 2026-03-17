@@ -7,13 +7,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <ThinkingPad />
   </React.StrictMode>
 )
-```
-- Click **"Commit changes"**
-
----
-
-**Step 3 — Add `src/ThinkingPad.jsx`**
-- Click **"Add file" → "Create new file"**
-- Type in the name box:
-```
-src/ThinkingPad.jsx
